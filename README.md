@@ -1,6 +1,6 @@
 <img alt="React Native Built-in Spinner Button" src="assets/logo.png" width="1050"/>
 
-[![React Native Built-in Spinner Button](https://img.shields.io/badge/-React%20Native%20Library%20Boilerplate-lightgrey?style=for-the-badge)](https://github.com/Paraboly/react-native-button)
+[![Fully customizable & built-in spinner button for React Native by Paraboly](https://img.shields.io/badge/-Fully%20customizable%20%26%20built--in%20spinner%20button%20for%20React%20Native%20by%20Paraboly-lightgrey?style=for-the-badge)](https://github.com/Paraboly/react-native-button)
 
 [![npm version](https://img.shields.io/npm/v/@paraboly/react-native-button.svg?style=for-the-badge)](https://www.npmjs.com/package/@paraboly/react-native-button)
 [![npm](https://img.shields.io/npm/dt/@paraboly/react-native-button.svg?style=for-the-badge)](https://www.npmjs.com/package/@paraboly/react-native-button)
